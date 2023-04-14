@@ -21,6 +21,10 @@
   background-color: var(--active-background);
 }
 
+.Button:hover {
+  color: var(--hover-background);
+}
+
 .App {
   text-align: center;
 }
